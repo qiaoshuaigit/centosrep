@@ -1,5 +1,5 @@
 <ehcache updateCheck="false" name="shiroCache">
-<diskStore path="/Users/shuai/var/ehcache" />
+<diskStore path="home/parallels/var/ehcache" />
 <!-- 
         配置自定义缓存
         maxElementsInMemory：缓存中允许创建的最大对象数
